@@ -1,0 +1,6 @@
+spring:
+  # SecurityProperties --> prefix = "spring.security"
+  security:
+    user:
+      name: fusheng
+      password: 123456
